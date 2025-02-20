@@ -6,12 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
-# Virtual environments
-env/
-venv/
-ENV/
-.venv/
-.ENV/
+# # Virtual environments
+# env/
+# venv/
+# ENV/
+# .venv/
+# .ENV/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
@@ -54,11 +54,11 @@ dmypy.json
 bandit.yaml
 
 # Environments and dependencies
-.env
-.venv
-env/
-venv/
-ENV/
+# .env
+# .venv
+# env/
+# venv/
+# ENV/
 
 # Distribution / packaging
 .Python
